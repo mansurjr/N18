@@ -1,0 +1,18 @@
+{
+  "name": "17",
+  "version": "1.0.0",
+  "main": "copy.js",
+  "type": "commonjs",
+  "scripts": {
+    "1": "node copy",
+    "2": "node create",
+    "3": "node list",
+    "4": "node read",
+    "5": "node rename",
+    "6": "node writeNumbers"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
